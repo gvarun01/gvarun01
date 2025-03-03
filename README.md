@@ -26,13 +26,6 @@ I'm an undergraduate student at International Institute of Information Technolog
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-#### Mathematical & ML Skills
-![Linear Algebra](https://img.shields.io/badge/-Linear_Algebra-01949A?style=flat-square)
-![Probability & Statistics](https://img.shields.io/badge/-Probability_&_Statistics-01949A?style=flat-square)
-![Bayesian Methods](https://img.shields.io/badge/-Bayesian_Methods-01949A?style=flat-square)
-![Queuing Theory](https://img.shields.io/badge/-Queuing_Theory-01949A?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-01949A?style=flat-square)
-![Numerical Methods](https://img.shields.io/badge/-Numerical_Methods-01949A?style=flat-square)
 
 ### 🔥 Featured Projects
 
